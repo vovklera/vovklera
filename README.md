@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Valeria Vovk
+## 👋 Hi, I'm Valeriia Vovk
 
 # Junior Frontend Developer | React • Next.js
 

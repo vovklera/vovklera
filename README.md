@@ -32,6 +32,8 @@ Currently improving my frontend skills and learning full-stack development. Open
 - [TravelTrucks](https://github.com/vovklera/travel-trucks) – A web application for searching and renting campers with REST API integration.
 Provides camper server-side filtering, pagination, image gallery, and booking form.
 
+- [Authentication](https://github.com/vovklera/auth-session) – A backend authentication system built with Node.js, Express, and MongoDB. Includes secure user registration, login, session management, logout, and password reset functionality.
+
 - Nature Travels ([Front](https://github.com/alina-hryhorenko/pryrodni-mandry-front) | [Back](https://github.com/alina-hryhorenko/pryrodni-mandry-back)) - **Add Story Page** – An eco-tourism community platform for sharing travel stories, developed as a team project.
 Implemented story creation with validation, image upload, and REST API integration.
 

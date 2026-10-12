@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Valeriia Vovk
 
-# Junior Frontend Developer | React • Next.js
+# Junior Fullstack Developer | React • Next.js • Node.js
 
-Junior Frontend Developer improving skills in building responsive web applications using React, TypeScript, and Next.js. Also developing backend skills with Node.js and Express.js.
+Junior Fullstack Developer improving skills in building responsive web applications using React, TypeScript, and Next.js. Also developing backend skills with Node.js and Express.js.
 Experienced with REST APIs, Git, GitHub, and MongoDB. Worked on team projects with shared responsibilities and meeting deadlines.
 Currently improving my frontend skills and learning full-stack development. Open to gaining real project experience and growing in a professional environment. 🌱
 

@@ -14,11 +14,15 @@ Currently improving my frontend skills and learning full-stack development. Open
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=37ebff)
 ![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=Next.js&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-ff6326?style=for-the-badge&logo=HTML5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-3c6aff?style=for-the-badge&logo=CSS3&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-3c6aff?style=for-the-badge&logo=css&logoColor=ffffff)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=4acc25)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fffb00&color=1a1900)
+![MongoDB](https://img.shields.io/badge/MongoDB-2a912e?style=for-the-badge&logo=mongodb&logoColor=2a912e&color=ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-ffffff?style=for-the-badge&logo=mongoose&logoColor=ffffff&color=991818)
+
 
 **Tools**
 
@@ -26,6 +30,9 @@ Currently improving my frontend skills and learning full-stack development. Open
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-218be3?style=for-the-badge&logo=VS%20code&logoColor=218be3)
 ![WebStorm](https://img.shields.io/badge/WebStorm-00bcac?style=for-the-badge&logo=WebStorm&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&logoColor=ffffff&color=cf192b)
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=ffffff&color=ff4b3d)
+![Trello](https://img.shields.io/badge/Trello-ffffff?style=for-the-badge&logo=trello&logoColor=ffffff&color=195ac2)
 
 ## 💻 Featured Projects  
 
@@ -39,7 +46,7 @@ Implemented story creation with validation, image upload, and REST API integrati
 
 ## 💬 Languages
 
-![English](https://img.shields.io/badge/English-B1-000000?style=for-the-badge&color=4ea3e3)
+![English](https://img.shields.io/badge/English-B1-000000?style=for-the-badge&color=1c73d6)
 ![Ukraine](https://img.shields.io/badge/Ukraine-Native-000000?style=for-the-badge&color=d5b101)
 
 ## 📫 How to reach me
